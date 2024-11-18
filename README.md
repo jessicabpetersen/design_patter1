@@ -40,7 +40,7 @@ The game should allow the selection between three types of boards, as shown in t
 Let me know if you need further help! 
 
 
-You can see the whole game (but in Portuguese) (here)[https://github.com/jessicabpetersen/Tabuleiro-Hnefatafl-Design-Pattern_-1-].
+You can see the whole game (but in Portuguese) [here](https://github.com/jessicabpetersen/Tabuleiro-Hnefatafl-Design-Pattern_-1-).
 
 
 
