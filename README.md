@@ -35,9 +35,9 @@ The game should allow the selection between three types of boards, as shown in t
 
 * If the King is in danger of being captured, the Mercenaries must say "Olha o Rei" ("Look at the King").
 
-##Attention:
-###The game is not complete yet as Part Two is still missing.
-
-###Let me know if you need further help!
+## Attention: 
+### The game is not complete yet as Part Two is still missing. 
+ 
+###Let me know if you need further help! 
 
 
